@@ -11,4 +11,14 @@
  * 5. send api "res.send(res in reswuitest)" ei vabe na likhe res.send({ result: 'res in reswuitest' })
  * likhele valo
  * 
+ * 
+ * // Get users 
+ * 
+ * make get methods (asycn)
+ * make query = {}
+ * make cursor and get all user based on query
+ * make user all user .toArray() (await)
+ * respon to res.send(user)
+ * 
+ * 
  */
